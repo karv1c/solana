@@ -1,4 +1,4 @@
-#Donation system in Solana blockchain
+# Donation system in Solana blockchain
 
 Donation system with functionality:
 

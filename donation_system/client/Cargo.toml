@@ -1,0 +1,12 @@
+[package]
+name = "client"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+solana-sdk = "1.14.3"
+solana-client = "1.14.3"
+tokio = { version = "1.21.2", features = ["full"] }
+borsh = "0.9.3"
